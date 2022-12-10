@@ -1,0 +1,21 @@
+*{
+    border: solid;
+}
+
+.Proyectos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.ITEM{
+    position: relative;
+    
+    
+}
+
+.ITEM p{
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+}
